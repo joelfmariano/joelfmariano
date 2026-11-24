@@ -5,7 +5,7 @@ I'm a Software Development Student at Instituto Tecnológico de las Américas (I
 I'm continuously learning and improving my skills in backend development, web technologies, databases, and software engineering.
 
 ### 🤝 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/joelfmariano/)
+- 💼 [LinkedIn](www.linkedin.com/in/joel-f-mariano)
 - 💻 Software Development Student
 - 🚀 Always learning and building.
 
