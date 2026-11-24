@@ -1,4 +1,3 @@
-![Texto alternativo](https://github.com/joelfmariano/joelfmariano/blob/main/1792766440847.jpg?raw=true)
 ## 🚀 Hey, I'm Joel!
 I'm a Software Development Student at Instituto Tecnológico de las Américas (ITLA), passionate about technology, programming, and turning ideas into practical solutions through code.
 
