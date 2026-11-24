@@ -1,5 +1,5 @@
 ## 🚀 Hey, I'm Joel!
-
+![Texto alternativo](https://github.com/joelfmariano/joelfmariano/blob/main/1792766440847.jpg?raw=true)
 I'm a Software Development Student at Instituto Tecnológico de las Américas (ITLA), passionate about technology, programming, and turning ideas into practical solutions through code.
 
 I'm continuously learning and improving my skills in backend development, web technologies, databases, and software engineering.
