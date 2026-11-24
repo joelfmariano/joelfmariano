@@ -1,8 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 ## 🚀 Hey, I'm Joel!
 
 I'm a Software Development Student at Instituto Tecnológico de las Américas (ITLA), passionate about technology, programming, and turning ideas into practical solutions through code.
